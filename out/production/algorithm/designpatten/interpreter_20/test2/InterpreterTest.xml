@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<root id="100">
+   <a>
+     <b>
+         <c name="testC">123456</c>
+         <d id="1">d1</d>
+         <d id="2">d1</d>
+         <d id="3">d1</d>
+         <d id="4">d1</d>
+     </b>
+  </a>
+</root>

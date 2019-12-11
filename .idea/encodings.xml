@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/AbstractFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/AbstractFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/CPUApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/CPUApi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/ComputerEnginner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/example/ComputerEnginner.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/abstractfactory_6/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/adapter_3/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/appearance_2/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/bulider_7/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/chainOfReson_22/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/factory_1/ApiFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/factory_1/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/factorymethod_5/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/mediator_9/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/prototype_8/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/readme.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/designpatten/singleton_4/readme.txt" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
