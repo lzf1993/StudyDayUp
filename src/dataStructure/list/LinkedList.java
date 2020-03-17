@@ -41,6 +41,7 @@ public class LinkedList<E> {
         if(index <0 || index > size) {
             return ;
         }
+        //队尾最后一个
         if(index == size){
             linkLast(e);
         }else{
@@ -94,6 +95,7 @@ public class LinkedList<E> {
     private void linkLast(E e){
         //创建一个节点
         Node<E> newNode = new Node<E>(last,e,null);
+        //保存最后一个节点
         Node<E> l = last;
         last = newNode;
 

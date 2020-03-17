@@ -10,7 +10,8 @@ public class Cards implements Comparable{
         this.cardPoints = cardPoints;
     }
 
-    //提供一个方法，用来比较对象的大小
+    //提供一个方法，用来比较对象的大小。
+    //先安装点数排序，再安装花色排序。
     @Override
     public int compareTo(Object o) {
         Cards c=(Cards)o;

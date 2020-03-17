@@ -20,12 +20,17 @@ import algorithm.sort.model.Cards;
         //n个数，则有 n-1个数需要排序 ， 每排序一个数，则需要排序 n-1
         // n n-1 n-2 n-3 ... 1   === 时间复杂度  n(n-1)/2
         for(int i= array.length-1; i>0; i--){
+            boolean flag = true;
             for(int j = 0; j< i; j++){
                 if(array[j] > array [j+1]){
                     int temp = array[j];
                     array[j] =  array[j+1];
                     array[j+1] = temp;
+                    flag = false;
                 }
+            }
+            if(flag){
+                break;
             }
         }
         System.out.println(array);

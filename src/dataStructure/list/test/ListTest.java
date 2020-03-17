@@ -2,7 +2,7 @@ package dataStructure.list.test;
 
 import java.util.LinkedList;
 
-import dataStructure.model.Mahjong;
+import dataStructure.list.test.model.Mahjong;
 
 class ListTest {
 

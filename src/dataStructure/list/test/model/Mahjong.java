@@ -1,4 +1,4 @@
-package dataStructure.model;
+package dataStructure.list.test.model;
 
 public class Mahjong {
 

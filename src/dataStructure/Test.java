@@ -1,4 +1,0 @@
-package dataStructure;
-
-class Test {
-}
